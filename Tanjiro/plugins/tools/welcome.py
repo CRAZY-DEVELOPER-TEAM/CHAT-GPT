@@ -15,7 +15,7 @@ from PIL import Image, ImageDraw, ImageFont
 from os import environ
 import requests
 import random
-from tanjiro import app
+from Tanjiro import app
 from pyrogram import *
 from pyrogram.types import *
 import random
